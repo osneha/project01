@@ -79,12 +79,12 @@ print("example of in and not in list-index-function")
 
 another_Num = [3, 7, 1, 4, 2, 8, 5, 6]
 if 1000 in another_Num:
-    print("true")
+    print("True")
 else:
     print("False")
 
 if 5 in another_Num:
-    print("true")
+    print("True")
 else:
     print("False")
 
